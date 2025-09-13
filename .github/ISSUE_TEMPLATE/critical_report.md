@@ -3,7 +3,7 @@ name: Critical report
 about: Make your report have as much information as possible, no matter how small.
   (e.g. reproduction steps, when it happens, where it happens, etc)
 title: 'CRITICAL: '
-labels: [CRITICAL, BUG]
+labels: ['CRITICAL', 'BUG']
 assignees: ['Instance0new']
 ---
 
