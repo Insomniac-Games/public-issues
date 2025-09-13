@@ -4,7 +4,6 @@ about: Make your report have as much information as possible, no matter how smal
   (e.g. reproduction steps, when it happens, where it happens, etc)
 title: 'BUG: '
 labels: Bug
-issueType: Bug
 ---
 
 ### What happens: 
